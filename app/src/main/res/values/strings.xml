@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda Estudiante File</string>
+    <string name="strRegistrar">REGISTRAR ESTUDIANTE</string>
+    <string name="strNControl">Número de Control</string>
+    <string name="strNombre">Nombre del estudiante</string>
+    <string name="strCarrera">Carrera</string>
+    <string name="strSemestre">Semestre</string>
+    <string name="strGrupo">Grupo</string>
+    <string name="strGrupoA">Grupo A</string>
+    <string name="strGrupoB">Grupo B</string>
+    <string name="strAlta">Registrar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
